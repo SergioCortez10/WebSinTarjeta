@@ -7,10 +7,16 @@ const router = createRouter({
             path: '/',
             redirect: '/inicio' 
         },
+        
         {
             path: '/inicio',
             name: 'inicio',
             component: () => import('@/views/pages/Inicio.vue')
+        },
+        {
+            path: '/iniciovideo',
+            name: 'iniciovideo',
+            component: () => import('@/views/pages/InicioVideo.vue')
         },
         {
             path: '/proceso',

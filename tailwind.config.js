@@ -8,6 +8,10 @@ export default {
     extend: {
       fontFamily:{
         'titillium': ["titillium", "sans-serif"]
+      },
+      colors:{
+        'CoOscuro' : '#495055',
+        'CoClaro' : '#82A938'
       }
     },
   },
