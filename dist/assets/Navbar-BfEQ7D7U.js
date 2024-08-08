@@ -1,1 +1,0 @@
-import{_ as s,o as e,c as o,a as c}from"./index-Cb06QJQE.js";const t="/assets/Logo%20ALPHA%20(fondo%20oscuro)-l0HVh8BT.png",n={},a={class:"bg-[#3C4F58] py-6 px-5 flex justify-end items-center h-20"},r=c("img",{src:t,alt:"Descripción de la imagen",class:"w-36 mr-5"},null,-1),_=[r];function i(l,d){return e(),o("div",a,_)}const p=s(n,[["render",i]]);export{p as N};
